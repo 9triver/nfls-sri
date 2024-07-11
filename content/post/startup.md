@@ -1,7 +1,7 @@
 +++
 author = "NFLS SRI"
 title = "NFLS SRI项目启动"
-date = "24-06-11"
+date = "2024-06-11"
 description = "NFLS与大学合作开启科学研究指导项目"
 summary = "南京外国语学校（NFLS）近期宣布启动一项全新的合作项目，旨在为高二学生提供科学研究指导。该项目与国内重点大学合作，旨在拓宽学生的学术视野，培养他们的科研能力。"
 featured = true
