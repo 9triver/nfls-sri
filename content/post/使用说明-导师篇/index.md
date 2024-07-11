@@ -12,12 +12,8 @@ usePageBundles: true
 # thumbnail: 'thumbnail.jpg' # Image in lists of posts.
 # shareImage: 'share.jpg' # For SEO and social media snippets.
 
-categories:
-  - syntax
 tags:
-  - Hugo
-series:
-  - Themes Guide
+  - 使用手册
 ---
 
 # 用户注册
@@ -51,7 +47,7 @@ series:
    ![](mnginfo.png)
 
    ![](mngwiki.png)
-   
+
 ### 使用日历告知项目成员讨论/会议/任务要求等时间
 
    ![](mngcal.png)

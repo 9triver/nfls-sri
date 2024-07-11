@@ -6,12 +6,9 @@ date: '2024-07-11'
 author: 'NFLS SRI'
 usePageBundles: true
 
-categories:
-  - syntax
 tags:
-  - Hugo
-series:
-  - Themes Guide
+  - 使用手册
+  
 ---
 
 
